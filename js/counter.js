@@ -1,4 +1,4 @@
-// SELECIONANDO ELEMENTO 
+// SELECIONANDO ELEMENTOS 
 const value = document.getElementById("value")
 const reset = document.querySelector(".reset")
 
